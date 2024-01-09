@@ -1,0 +1,14 @@
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\bin\Debug\net8.0\ConsoleAppBootcampSquadra.exe
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\bin\Debug\net8.0\ConsoleAppBootcampSquadra.deps.json
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\bin\Debug\net8.0\ConsoleAppBootcampSquadra.runtimeconfig.json
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\bin\Debug\net8.0\ConsoleAppBootcampSquadra.dll
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\bin\Debug\net8.0\ConsoleAppBootcampSquadra.pdb
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ConsoleAppBootcampSquadra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ConsoleAppBootcampSquadra.AssemblyInfoInputs.cache
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ConsoleAppBootcampSquadra.AssemblyInfo.cs
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ConsoleAppBootcampSquadra.csproj.CoreCompileInputs.cache
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ConsoleAppBootcampSquadra.dll
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\refint\ConsoleAppBootcampSquadra.dll
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ConsoleAppBootcampSquadra.pdb
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ConsoleAppBootcampSquadra.genruntimeconfig.cache
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ref\ConsoleAppBootcampSquadra.dll
