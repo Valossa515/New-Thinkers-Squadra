@@ -12,3 +12,4 @@ C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\
 C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ConsoleAppBootcampSquadra.pdb
 C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ConsoleAppBootcampSquadra.genruntimeconfig.cache
 C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ref\ConsoleAppBootcampSquadra.dll
+C:\Users\fe_mm\source\repos\ConsoleAppBootcampSquadra\ConsoleAppBootcampSquadra\obj\Debug\net8.0\ConsoleAppBootcampSquadra.sourcelink.json

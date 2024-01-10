@@ -8,7 +8,7 @@ namespace ConsoleAppBootcampSquadra
 {
     class Principal
     {
-        static void Main()
+        public static void Main(string[] args)
         {
             //Aula1
 
@@ -18,7 +18,7 @@ namespace ConsoleAppBootcampSquadra
             //Console.WriteLine();
 
             //Aula2
-
+            /*
             Aluno aluno = new();
             string nome;
             string sobrenome;
@@ -63,6 +63,150 @@ namespace ConsoleAppBootcampSquadra
             {
                 Console.WriteLine(s);
             }
+            */
+
+            // Aula 3
+
+            //double numero = 10.5;
+            // int numeroInteiro = (int)numero;
+
+            // Console.WriteLine(numeroInteiro);
+
+            //string numeroTexto = "123";
+            //int numeroConvertido;
+
+            // numeroConvertido = int.Parse(numeroTexto);
+
+            //Convert
+
+            // Aluno aluno = new();
+            //Console.WriteLine("Digite um numero: ");
+            // int idadePermitida = int.Parse(Console.ReadLine());
+            //aluno.idade = idadePermitida;
+            // bool ehEstudante = true;
+            // bool podePagar = false;
+            // bool estaChovendo = false;
+            // int contador = 0;
+
+            //string[] fruta = { "Maçã", "Morango", "Banana", "Melancia", "Uva" };
+
+            //if (idadePermitida >= 18)
+            // {
+            // Console.WriteLine("Maior de idade");
+            // }
+            //else
+            // {
+            //  Console.WriteLine("Menor de idade");
+            //  }
+
+            // if(idadePermitida % 2 == 0)
+            // {
+            //     Console.WriteLine("O numero é par");
+            //}
+            //else
+            //{
+            //Console.WriteLine("O numero é impar");
+            // }
+
+            //string ternario = (idadePermitida % 2 == 0) ? "Par" : "Impar";
+
+
+            // if (idadePermitida >= 18 && ehEstudante)
+            // {
+            //     // Console.WriteLine("Pode ingressar na faculdade");
+            // }
+            // else
+            //{
+            //Console.WriteLine("Não pode ingressar na faculdade");
+            // }
+
+            // if (idadePermitida >= 18 || ehEstudante || podePagar)
+            //   {
+            //   Console.WriteLine("Pode ingressar na faculdade");
+            //  }
+            //  else
+            //  {
+            //Console.WriteLine("Não pode ingressar na faculdade");
+            // }
+
+            //if (!estaChovendo)
+            //{
+            //  Console.WriteLine("Não esta chovendo, pode sair sem guarda-chuva");
+            // }
+            // else
+            //  {
+            //Console.WriteLine("Está chovendo, leve seu garda-chuva");
+            //  }
+
+            //while(contador <5)
+            //{
+            //Console.WriteLine("Contagem: " + contador);
+            //contador++;
+            //}
+
+            //do
+            //{
+            //Console.WriteLine("Contagem: " + contador);
+            //contador++;
+            //} while (contador < 5);
+
+            //for(int i = 0; i < 5; i++)
+            // {
+            //if(i == 2)
+            // {
+            // break;
+            //  }
+            // Console.WriteLine("Contagem: " + i);
+            // }
+
+
+            //foreach(var x in fruta) { 
+            //Console.WriteLine(x);
+            //}
+
+
+            //Aluno aluno = new();
+
+            //Console.WriteLine("Digite sua idade: ");
+            //int idadePermitida = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("É um membro premium? (Digite 'sim' ou 'não'): ");
+            //string respostaPremium = Console.ReadLine().ToLower();
+            //bool ehpremium = respostaPremium == "sim" || respostaPremium == "s";
+
+            //aluno.idade = idadePermitida;
+            // aluno.ehpremium = ehpremium;
+
+            //if (aluno.idade >= 18 && aluno.ehpremium)
+            //{
+            //Console.WriteLine("Pode acessar");
+            // }
+            //else
+            //{
+            //Console.WriteLine("Não Pode Acessar");
+            // }
+
+            //for(int i = 0; i <= 100; i++) { 
+            //if(i %2 == 0) {
+            // Console.WriteLine("Numero: " + i);
+
+            //}
+
+            //List<Animal> animals = new List<Animal>();
+
+            Gato obj = new();
+            obj.Idade = 20;
+            obj.Nome = "Bob";
+            obj.Genero = "Maculino";
+
+            Console.WriteLine(obj.Idade);
+            Console.WriteLine(obj.Nome);
+            Console.WriteLine(obj.Genero);
+            obj.Arranhar();
+            obj.Comer();
+            obj.Dormir();
+
+
 
         }
     }
