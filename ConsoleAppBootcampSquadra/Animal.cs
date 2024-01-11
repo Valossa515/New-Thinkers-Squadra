@@ -17,6 +17,15 @@ namespace ConsoleAppBootcampSquadra
         
         }
 
+        public Animal(string nome, string genero, int idade)
+        {
+            Nome = nome;
+            Genero = genero;
+            Idade = idade;
+        }
+
+
+
         public void Comer()
         {
             Console.WriteLine("O animal esta comendo!");
@@ -25,6 +34,12 @@ namespace ConsoleAppBootcampSquadra
         public void Dormir()
         {
             Console.WriteLine("O animal esta dormindo!");
+        }
+
+        public string Domrir(string texto)
+        {
+            string text = texto;
+            return text;
         }
 
 

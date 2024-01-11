@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -194,20 +195,119 @@ namespace ConsoleAppBootcampSquadra
 
             //List<Animal> animals = new List<Animal>();
 
-            Gato obj = new();
-            obj.Idade = 20;
-            obj.Nome = "Bob";
-            obj.Genero = "Maculino";
+            //Gato obj = new();
+            //obj.Idade = 20;
+            //obj.Nome = "Bob";
+            //obj.Genero = "Maculino";
 
-            Console.WriteLine(obj.Idade);
-            Console.WriteLine(obj.Nome);
-            Console.WriteLine(obj.Genero);
-            obj.Arranhar();
-            obj.Comer();
-            obj.Dormir();
+            //Console.WriteLine(obj.Idade);
+            //Console.WriteLine(obj.Nome);
+            //Console.WriteLine(obj.Genero);
+            //obj.Arranhar();
+            //obj.Comer();
+            //obj.Dormir();
+
+            //aula 4
+
+            //Animal animal = new Animal();
+
+            //int[] numeros = new int[2];
+            //numeros[0] = 1;
+            //numeros[1] = 2;
+
+            //int[] numero = {1,2,3,4,5,6,7,8,9,10};
+
+            // for (int i = 0; i < numero.Length; i++)
+            //{
+            // Console.WriteLine(numeros[i]); 
+            // }
+
+            //    Console.Write("Informe a quantidade de números: ");
+            //    if (!int.TryParse(Console.ReadLine(), out int quantidadeNumeros) || quantidadeNumeros <= 0)
+            //    {
+            //        Console.WriteLine("Por favor, insira um número inteiro válido maior que zero.");
+            //        return;
+            //    }
+
+            //    // Criação do array para armazenar os números
+            //    int[] numeros = new int[quantidadeNumeros];
+
+            //    // Solicita ao usuário que insira os números e os armazena no array
+            //    for (int i = 0; i < quantidadeNumeros; i++)
+            //    {
+            //        Console.Write($"Informe o número {i + 1}: ");
+            //        if (!int.TryParse(Console.ReadLine(), out numeros[i]))
+            //        {
+            //            Console.WriteLine("Por favor, insira um número inteiro válido.");
+            //            i--; // Decrementa i para repetir a entrada do número inválido
+            //        }
+            //    }
+
+            //    // Calcula a média dos números no array
+            //    double media = CalcularMedia(numeros);
+
+            //    // Exibe o resultado
+            //    Console.WriteLine($"A média dos números é: {media}");
+            //}
+
+            //// Função para calcular a média dos números em um array
+            //static double CalcularMedia(int[] numeros)
+            //{
+            //    if (numeros.Length == 0)
+            //    {
+            //        return 0; // Retorna 0 se o array estiver vazio para evitar divisão por zero
+            //    }
+
+            //    int soma = 0;
+
+            //    // Soma todos os números no array
+            //    foreach (int numero in numeros)
+            //    {
+            //        soma += numero;
+            //    }
+
+            //    // Calcula a média
+            //    double media = (double)soma / numeros.Length;
+
+            //    return media;
+            //}
+
+            //List<string> nomes = new List<string>();
+            //nomes.Add("Felipe");
+            //nomes.Add("Natalia");
+            //nomes.Add("Mateus");
+            //nomes.Add("Nice");
+            //nomes.Add("Danilo");
 
 
+            ////nomes.Remove(3);
+            ////nomes.RemoveAt(3);
+            //nomes.AddRange(new List<string> {"Pedro", "Ana" });
+            //nomes.Insert(0, "Sergio");
+            //bool existe = nomes.Contains("Felipe");
+            //int ocorrencia = nomes.IndexOf("Natalia");
+            //nomes.Sort();
+            //Console.WriteLine(nomes.Count);
 
+            //foreach (string i in nomes)
+            //{
+            //    Console.WriteLine("Itens da lista: " + i);
+            //}
+
+            //List<int> numeros = new List<int>();
+
+            //numeros.Add(1);
+            //numeros.Add(8);
+            //numeros.Add(27);
+            //numeros.Add(4);
+            //numeros.Add(12);
+
+            //numeros.Sort();
+
+            //foreach (int i in numeros)
+            //{
+                //Console.WriteLine("Itens da lista: " + i);
+            //}
         }
     }
 }
