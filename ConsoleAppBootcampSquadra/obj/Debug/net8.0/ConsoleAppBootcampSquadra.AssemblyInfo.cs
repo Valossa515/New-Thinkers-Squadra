@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppBootcampSquadra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5c810b377ef220dbf7ca855214ee8ddb6d95b74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d73f6cdebda99d60b77fbcaa3d8d26d169ef646")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppBootcampSquadra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppBootcampSquadra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

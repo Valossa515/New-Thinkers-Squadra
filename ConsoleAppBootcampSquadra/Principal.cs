@@ -306,8 +306,34 @@ namespace ConsoleAppBootcampSquadra
 
             //foreach (int i in numeros)
             //{
-                //Console.WriteLine("Itens da lista: " + i);
+            //Console.WriteLine("Itens da lista: " + i);
             //}
+
+            //Aula 5
+
+            //Retangulo retangulo = new(5, 10);
+            //Triangulo triangulo = new(4, 8);
+            //Circulo xirculo = new(3);
+            //Console.WriteLine($"Area do retangulo é: {retangulo.CalcularArea()}");
+            //Console.WriteLine($"Area do triangulo é: {triangulo.CalcularArea()}");
+            //Console.WriteLine($"Area do criculo é: {triangulo.CalcularArea()}");
+
+            //try
+            //{
+            //    int divisor = 0;
+            //    int result = 10 / divisor;
+            //}
+            //catch(Exception e) { 
+            //    Console.WriteLine(e.Message);
+            //}
+            //finally {
+            //    Console.WriteLine("Bloco finally sempre executa");
+            //}
+
+            Caixa<int> caixaInt = new Caixa<int>(40);
+            Console.WriteLine("Conteúdo da caixa: " +  caixaInt.ObterConteudo());
+            Caixa<string> caixaString = new Caixa<string>("Esta é uma caixa");
+            Console.WriteLine("Conteúdo da caixa: " + caixaString.ObterConteudo());
         }
     }
 }
